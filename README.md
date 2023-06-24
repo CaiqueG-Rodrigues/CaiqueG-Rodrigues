@@ -13,12 +13,12 @@
 </div> <br>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiqueG-Rodrigues&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueG-Rodrigues&layout=compact&langs_count=16&theme=holi"/>
+    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiqueG-Rodrigues&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueG-Rodrigues&layout=compact&langs_count=16&theme=holi"/>
 </div> <br>
 
-<section>
-  <div align="center"> 
+<section align="center">
+  <div>
   <a href="https://www.instagram.com/rodriguesscaique_/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
   <a align="right" href= "mailto:rodriguescaique.@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
