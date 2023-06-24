@@ -1,4 +1,4 @@
-## 🤘🏼HELLO THERE!
+## 🤘🏼Hello There!
 
 <div align="center">
   
@@ -10,23 +10,19 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div> <br>
-
-<div>
-  <img text-align=left height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiqueG-Rodrigues&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img text-align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueG-Rodrigues&layout=compact&langs_count=16&theme=holi"/>
 </div> <br>
 
-<div align="center"> 
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiqueG-Rodrigues&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueG-Rodrigues&layout=compact&langs_count=16&theme=holi"/>
+</div> <br>
+
+<section>
+  <div align="center"> 
   <a href="https://www.instagram.com/rodriguesscaique_/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" align="center"></a>
-  <a href = "mailto:rodriguescaique.@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
+  <a align="right" href= "mailto:rodriguescaique.@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/linkedin.com/in/caiquegrodrigues/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
 </div>
-
-##
-
-
-
-![Snake animation](https://github.com/CaiqueG-Rodrigues/CaiqueG-Rodrigues/blob/output/github-contribution-grid-snake.svg)
+</section>
