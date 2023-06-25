@@ -13,17 +13,21 @@
 </div> <br>
 
 <div align="center">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiqueG-Rodrigues&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueG-Rodrigues&layout=compact&langs_count=16&theme=holi"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiqueG-Rodrigues&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueG-Rodrigues&layout=compact&langs_count=16&theme=holi"/>
 </div> <br>
 
 <section align="center">
   <div>
   <a href="https://www.instagram.com/rodriguesscaique_/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a align="right" href= "mailto:rodriguescaique.@gmail.com">
+  <a align="right" href= "mailto:rodriguescaique.@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
-  <a href="https://www.linkedin.com/in/linkedin.com/in/caiquegrodrigues/" target="_blank">
+  <a href="https://www.linkedin.com/in/caiquegrodrigues/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 </section>
+
+##
+
+![Snake animation](https://github.com/CaiqueG-Rodrigues/CaiqueG-Rodrigues/blob/output/github-contribution-grid-snake.svg)
